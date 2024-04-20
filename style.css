@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    backdrop-filter: blur(10px);
+    background-image:url("aethetic.gif");
+    background-color: aquamarine;
+}
